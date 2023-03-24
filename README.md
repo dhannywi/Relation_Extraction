@@ -1,5 +1,5 @@
 # Relation Extraction on MIMIC-III Data
-AI in Health group project in collaboration with Dr. Yifan Peng from Cornell Medicine. Group members include Dhanny Indrakusuma, Redoan Rahman, and Patrick Sui.
+AI in Health group project in collaboration with Dr. Yifan Peng from Cornell Medicine.
 
 The research project focuses on exploring different possibilities to build a successful model that can classify
 the type of relation type available in a sentence of medical
@@ -15,3 +15,8 @@ excellent representation which improved the results for
 almost all of the classification models.
 
 Detailed description of the research process and findings are available in the [PDF report](https://github.com/dhannywi/Relation_Extraction/blob/main/Relation%20Extraction%20final%20report.pdf) and [presentation slides](https://docs.google.com/presentation/d/1ZaX9iUfgtgCPVpdMaUbpxYolv8OLel0bnsF9nHah21Y/edit?usp=sharing).
+
+## Authors
+Dhanny Indrakusuma<br>
+Redoan Rahman<br>
+Patrick Sui
