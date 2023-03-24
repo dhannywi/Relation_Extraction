@@ -14,4 +14,4 @@ model. We also found that SentenceBERT provides
 excellent representation which improved the results for
 almost all of the classification models.
 
-Detailed description of the research process and findings are available in the [PDF report](https://github.com/dhannywi/Relation_Extraction/blob/main/Relation%20Extraction%20final%20report.pdf) and [presentation slides](https://docs.google.com/presentation/d/1ZaX9iUfgtgCPVpdMaUbpxYolv8OLel0bnsF9nHah21Y/edit#slide=id.g127da97cedf_1_279).
+Detailed description of the research process and findings are available in the [PDF report](https://docs.google.com/presentation/d/1ZaX9iUfgtgCPVpdMaUbpxYolv8OLel0bnsF9nHah21Y/edit?usp=sharing).
